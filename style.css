@@ -1,0 +1,20 @@
+html {
+    font-family: "Roboto", sans-serif;
+}
+
+.container-title {
+    background-color: rgb(109, 199, 229);
+}
+
+.title {
+    color: orange;
+}
+
+.title2 {
+    font-weight: bold;
+}
+
+.button {
+    background-color: orange;
+    color: white;
+}
