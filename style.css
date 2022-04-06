@@ -3,11 +3,13 @@ html {
 }
 
 .container-title {
-    background-color: rgb(109, 199, 229);
+    background-color: rgb(85, 184, 214);
+    text-align: left;
 }
 
 .title {
-    color: orange;
+    color: rgb(189, 98, 0);
+    margin: 20px;
 }
 
 .title2 {
@@ -15,6 +17,13 @@ html {
 }
 
 .button {
-    background-color: orange;
+    background-color: rgb(189, 98, 0);
     color: white;
+    padding: 20px;
+    border-radius: 25px;
+    margin: 20px;
+}
+
+.container-pictures {
+    align-items: center;
 }
